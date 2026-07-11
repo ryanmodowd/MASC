@@ -1,2 +1,4 @@
 # MASC
-Multiscale Active Super-resolution Classification (MASC) Algorithm implementation for numerical examples from the paper written by myself and Dr. Hrushikesh Mhaskar titled "A signal Separation View of Classification", linked here: https://www.sciencedirect.com/science/article/pii/S1063520326000345. 
+This is a repository for a Python implementation of the Multiscale Active Super-resolution Classification (MASC) algorithm from the paper written by myself and Dr. Hrushikesh Mhaskar titled "A signal Separation View of Classification", linked here: https://www.sciencedirect.com/science/article/pii/S1063520326000345. Contained in this repository are three folders: Document, IP, and Salinas. In each folder is a Python notebook and associated data files used for the document, Indian Pines, and Salinas numerical experiments shown in our paper.
+
+I think the Indian Pines code has the most helpful annotations, so it may be a good starting place for someone looking to implement the algorithm for themselves. Please feel free to reach out with any questions: Ryan O'Dowd: ryan.o'dowd@nih.gov, Hrushikesh Mhaskar: hrushikesh.mhaskar@cgu.edu.
